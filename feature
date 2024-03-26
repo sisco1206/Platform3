@@ -1,4 +1,4 @@
 def square(number):
-    return number * 32
+    return number * 33
 
 square(5)    
